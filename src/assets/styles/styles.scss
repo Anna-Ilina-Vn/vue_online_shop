@@ -1,0 +1,22 @@
+@import 'variables.scss';
+@import "vue-select/src/scss/vue-select.scss";
+
+.btn {
+  padding: $padding $padding*2;
+  background: $main-bg;
+  color: #ffffff;
+  border: 0;
+  border-radius: $radius;
+  outline: none;
+  cursor: pointer;
+  
+  &:hover {
+    background: $main-bg-hover;
+  }
+
+}
+
+
+a {
+  color: sandybrown;
+}

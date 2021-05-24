@@ -1,0 +1,570 @@
+{
+  "products": [
+    {
+      "title": "Ноутбук ігровий Lenovo Gaming 3 15ARH05 BLUE",
+      "key": "(82EY00BMRA)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/l/e/lenovo_ideapad_gaming_3_15arh05_82ey00gcra_chameleon_blue_1_.jpg",
+      "color": "блакитний",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/l/e/lenovo_ideapad_gaming_3_15arh05_chameleon_blue_06_5_1.jpeg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/l/e/lenovo_ideapad_gaming_3_15arh05_chameleon_blue_012_5_1.jpeg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/l/e/lenovo_ideapad_gaming_3_15arh05_chameleon_blue_03_5_1.jpeg"],
+      "category": "Ноутбуки",
+      "brand": "Lenovo",
+      "country": "Китай",
+      "display": {
+        "diagonal": "15,6'",
+        "resolution": "1920x1080 Full HD",
+        "matrix": "IPS",
+        "coverage": "Антиблікове"
+      },
+      "cpu": {
+        "type": "AMD",
+        "model": "Ryzen 5 4600H",
+        "cores": "6 ядер",
+        "frequency": "3,0 (4,0) ГГц"
+      },
+      "ram": {
+        "volume": "8 GB",
+        "type": "DDR4",
+        "frequency": "3200 MHz"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "512 GB"
+      },
+      "specifics": "Bluetooth, HDMI, TPM модуль, Підсвічування клавіатури",
+      "size": {
+        "thickness": "24.9 mm",
+        "width": "359 mm",
+        "depth": "249.6 mm",
+        "weight": "2.2 kg"
+      },
+      "direction": "ігровий",
+      "os": "Windows",
+      "videoCard": {
+        "brand": "Nvidia",
+        "model": "GeForce GTX 1650",
+        "volume": "4 GB",
+        "type": "дискретна"
+      },
+      "price": 22499
+    },
+    {
+      "title": "Ноутбук HP 15-dw2000ua",
+      "key": "(3M811EA)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/h/p/hp_15-dw2000ua_3m811ea_silver_7.jpg",
+      "color": "сріблястий",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/h/p/hp_15-dw2000ua_3m811ea_silver_4.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/h/p/hp_15-dw2000ua_3m811ea_silver_2.jpg"],
+      "category": "Ноутбуки",
+      "brand": "HP",
+      "country": "Китай",
+      "display": {
+        "diagonal": "15,6'",
+        "resolution": "1920x1080 Full HD",
+        "matrix": "IPS",
+        "coverage": "Матове"
+      },
+      "cpu": {
+        "type": "Intel",
+        "model": "Core i5-1035G1",
+        "cores": "4 ядра",
+        "frequency": "1,0 (3,6) ГГц"
+      },
+      "ram": {
+        "volume": "8 GB",
+        "type": "DDR4",
+        "frequency": "3200 MHz"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "256 GB"
+      },
+      "specifics": "Bluetooth, HDMI",
+      "size": {
+        "thickness": "24.9 mm",
+        "width": "359 mm",
+        "depth": "249.6 mm",
+        "weight": "1.7 kg"
+      },
+      "direction": "універсальний",
+      "os": "Free DOS",
+      "videoCard": {
+        "brand": "Nvidia",
+        "model": "GeForce MX330",
+        "volume": "2 GB",
+        "type": "дискретна"
+      },
+      "price": 18880
+    },
+    {
+      "title": "Ноутбук ігровий Lenovo Gaming 3 15ARH05 ONYX BLACK",
+      "key": "(82EY00P0RA)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/1/5/15arh05_02_3.jpg",
+      "color": "онікс чорний",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/1/5/15arh05_02_3.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/1/5/15arh05_04_1.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/1/5/15arh05_06_1.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Lenovo",
+      "country": "Китай",
+      "display": {
+        "diagonal": "15,6'",
+        "resolution": "1920x1080 Full HD",
+        "matrix": "IPS",
+        "coverage": "Антиблікове"
+      },
+      "cpu": {
+        "type": "AMD",
+        "model": "Ryzen 5 4600H",
+        "cores": "6 ядер",
+        "frequency": "3,0 (4,0) ГГц"
+      },
+      "ram": {
+        "volume": "8 GB",
+        "type": "DDR4",
+        "frequency": "3200 MHz"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "512 GB"
+      },
+      "specifics": "Bluetooth, HDMI, TPM модуль, Підсвічування клавіатури",
+      "size": {
+        "thickness": "24.9 mm",
+        "width": "359 mm",
+        "depth": "249.6 mm",
+        "weight": "2.2 kg"
+      },
+      "direction": "ігровий",
+      "os": "Windows",
+      "videoCard": {
+        "brand": "Nvidia",
+        "model": "GeForce GTX 1650",
+        "volume": "4 GB",
+        "type": "дискретна"
+      },
+      "price": 22499
+    },
+    {
+      "title": "Ноутбук Apple New MacBook Air M1 13.3'' 256Gb MGN63 Space Grey 2020",
+      "key": "(82EY780BMRA)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/w/w/wwru_macbook-air_q121_spacegray_pdp-image-1.jpg",
+      "color": "сірий",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/w/w/wwru_macbook-air_q121_spacegray_pdp-image-2.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/w/w/wwru_macbook-air_q121_spacegray_pdp-image-6.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Apple",
+      "country": "Китай",
+      "display": {
+        "diagonal": "13,3''",
+        "resolution": "2560x1600",
+        "matrix": "IPS",
+        "coverage": "Глянцеве"
+      },
+      "cpu": {
+        "type": "M1",
+        "model": "Apple M1",
+        "cores": "8 ядер",
+        "frequency": "3,20 ГГц"
+      },
+      "ram": {
+        "volume": "16 ГБ",
+        "type": "DDR4",
+        "frequency": "2933 МГц"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "256 GB"
+      },
+      "specifics": "Bluetooth, Підсвічування клавіатури",
+      "size": {
+        "thickness": "16,1 мм",
+        "width": "304,1 мм",
+        "depth": "212,4 мм",
+        "weight": "1,29 кг"
+      },
+      "direction": "універсальний, ігровий",
+      "os": "MacOS Big Sur",
+      "videoCard": {
+        "brand": "Nvidia",
+        "model": "GeForce MX330",
+        "volume": "2 GB",
+        "type": "дискретна"
+      },
+      "price": 33999
+    },
+    {
+      "title": "Ноутбук Acer Swift 1 SF114-33",
+      "key": "(82EY00BMRRR)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/c/acer-swift-1_sf114-33_wp-logo_gold_01_backlit.jpg",
+      "color": "золотиcтий",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/c/acer-swift-1_sf114-33_wp-logo_gold_03.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/c/acer-swift-1_sf114-33_wp-logo_gold_04_backlit.jpg","https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/c/acer-swift-1_sf114-33_gold_06.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Acer",
+      "country": "Китай",
+      "display": {
+        "diagonal": "14''",
+        "resolution": "1920x1080 Full HD",
+        "matrix": "IPS",
+        "coverage": "Матове"
+      },
+      "cpu": {
+        "type": "Intel",
+        "model": "Pentium N5030",
+        "cores": "4 ядра",
+        "frequency": "3,1 ГГц"
+      },
+      "ram": {
+        "volume": "8 ГБ",
+        "type": "LPDDR4",
+        "frequency": "2933 МГц"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "256 GB"
+      },
+      "specifics": "Bluetooth, HDMI, Підсвічування клавіатури",
+      "size": {
+        "thickness": "14,95 мм",
+        "width": "322,8 мм",
+        "depth": "212,2 мм",
+        "weight": "1,3 кг"
+      },
+      "direction": "універсальний, ігровий",
+      "os": "Free DOS",
+      "videoCard": {
+        "brand": "Intel",
+        "model": "UHD Graphics 605",
+        "volume": "2 GB",
+        "type": "інтегрована"
+      },
+      "price": 13999
+    },
+    {
+      "title": "Ноутбук ігровий Acer Nitro 5 AN515-44",
+      "key": "(82EY00BA)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/c/acer_nitro_5_an515-44_nh.q9geu.00x_black_1__1.jpg",
+      "color": "чорний",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/c/acer_nitro_5_an515-44_nh.q9geu.00x_black_8__1.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/c/acer_nitro_5_an515-44_nh.q9geu.00x_black_6__1.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/c/acer_nitro_5_an515-44_nh.q9geu.00x_black_4__1.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Acer",
+      "country": "Китай",
+      "display": {
+        "diagonal": "15,6''",
+        "resolution": "1920x1080 Full HD",
+        "matrix": "IPS",
+        "coverage": "Матове"
+      },
+      "cpu": {
+        "type": "AMD",
+        "model": "Ryzen 5 4600H",
+        "cores": "6 ядер",
+        "frequency": "3,0 ГГц"
+      },
+      "ram": {
+        "volume": "8 ГБ",
+        "type": "DDR4",
+        "frequency": "2933 МГц"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "256 GB"
+      },
+      "specifics": "Bluetooth, HDMI, Підсвічування клавіатури",
+      "size": {
+        "thickness": "23,9 мм",
+        "width": "363,4 мм",
+        "depth": "255 мм",
+        "weight": "2,4 кг"
+      },
+      "direction": "універсальний, ігровий",
+      "os": "Free DOS",
+      "videoCard": {
+        "brand": "Nvidia",
+        "model": "GeForce GTX 1650Ti",
+        "volume": "4 ГБ",
+        "type": "дискретна"
+      },
+      "price": 24799
+    },
+    {
+      "title": "Ноутбук Apple MacBook Air 13.3'' Z0X10006E Space Grey",
+      "key": "(Z0X10006E)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/p/apple_macbook_air_13__01_1.jpg",
+      "color": "сірий",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/c/o/copy_apple_z11c0017n_60509c0904f10_images_22066473313.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/c/o/copy_apple_z11c0017n_60509c0904f10_images_22066481238.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Apple",
+      "country": "Китай",
+      "display": {
+        "diagonal": "13,3''",
+        "resolution": "2560x1600",
+        "matrix": "IPS (Retina)",
+        "coverage": "Глянцеве"
+      },
+      "cpu": {
+        "type": "M1",
+        "model": "",
+        "cores": "8 ядер",
+        "frequency": "3,20 ГГц"
+      },
+      "ram": {
+        "volume": "16 ГБ",
+        "type": "DDR4",
+        "frequency": "2933 МГц"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "256 GB"
+      },
+      "specifics": "Bluetooth, Підсвічування клавіатури",
+      "size": {
+        "thickness": "15,6 мм",
+        "width": "304,1 мм",
+        "depth": "212,4 мм",
+        "weight": "1,4 кг"
+      },
+      "direction":"ігровий, робота з графікою, програмування ",
+      "os": "MacOS Big Sur",
+      "videoCard": {
+        "brand": "Apple",
+        "model": "GeForce MX330",
+        "volume": "2 GB",
+        "type": "інтегрована"
+      },
+      "price": 52489
+    },
+    {
+      "title": "Ноутбук Apple MacBook Pro M1 13.3'' 256Gb Z11B000Q8 Space Grey",
+      "key": "(Z11B000Q8)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/c/o/copy_apple_z11c0017n_60509c0904f10_images_22066471823.jpg",
+      "color": "сірий",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/c/o/copy_apple_z11c0017n_60509c0904f10_images_22066473313.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/c/o/copy_apple_z11c0017n_60509c0904f10_images_22066481238.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Apple",
+      "country": "Китай",
+      "display": {
+        "diagonal": "13,3''",
+        "resolution": "2560x1600",
+        "matrix": "IPS (Retina)",
+        "coverage": "Глянцеве"
+      },
+      "cpu": {
+        "type": "M1",
+        "model": "Apple M1",
+        "cores": "8 ядер",
+        "frequency": "3,20 ГГц"
+      },
+      "ram": {
+        "volume": "16 ГБ",
+        "type": "DDR4",
+        "frequency": "2933 МГц"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "256 GB"
+      },
+      "specifics": "Bluetooth, Підсвічування клавіатури",
+      "size": {
+        "thickness": "15,6 мм",
+        "width": "304,1 мм",
+        "depth": "212,4 мм",
+        "weight": "1,4 кг"
+      },
+      "direction":"ігровий, робота з графікою, програмування ",
+      "os": "MacOS Big Sur",
+      "videoCard": {
+        "brand": "Apple",
+        "model": "GeForce MX330",
+        "volume": "2 GB",
+        "type": "інтегрована"
+      },
+      "price": 55499
+    },
+    {
+      "title": "Ноутбук Lenovo IdeaPad 5 15ITL05",
+      "key": "(82FG00KBRA)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/l/e/lenovo_ideapad_5_15itl05_82fg00kcra_graphite_grey_1__1.jpg",
+      "color": "графітовий сірий",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/l/e/lenovo_ideapad_5_15itl05_graphite_grey_07_8.jpeg","https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/l/e/lenovo_ideapad_5_15itl05_graphite_grey_06_8.jpeg"],
+      "category": "Ноутбуки",
+      "brand": "Lenovo",
+      "country": "Китай",
+      "display": {
+        "diagonal": "15,6''",
+        "resolution": "1920x1080 Full HD",
+        "matrix": "IPS",
+        "coverage": "Антиблікове"
+      },
+      "cpu": {
+        "type":"Intel",
+        "model": "Core i7-1165G7",
+        "cores": "4 ядра",
+        "frequency": "2,8 (4,7) ГГц"
+      },
+      "ram": {
+        "volume": "8 ГБ",
+        "type": "DDR4",
+        "frequency": "3200 МГц"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "512 GB"
+      },
+      "specifics": "Bluetooth, HDMI, TPM модуль, Підсвічування клавіатури",
+      "size": {
+        "thickness": "19,9 мм",
+        "width": "356,67 мм",
+        "depth": "233,13 мм",
+        "weight": "1,66 кг"
+      },
+      "direction":"ігровий, робота з графікою, програмування ",
+      "os": "Free DOS",
+      "videoCard": {
+        "brand": "Intel",
+        "model": "Iris Xe Graphics",
+        "volume": "2 GB",
+        "type": "інтегрована"
+      },
+      "price": 22799
+    },
+    {
+      "title": "Ноутбук Asus ZenBook",
+      "key": "(UX435EG-A5038T)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/s/asus_zenbook_ux435eg-a5038t_grey_1_.jpg",
+      "color": "сірий",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/s/asus_zenbook_ux435eg-a5038t_grey_11_.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/s/asus_zenbook_ux435eg-a5038t_grey_9_.jpg", "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/s/asus_zenbook_ux435eg-a5038t_grey_3_.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Asus",
+      "country": "Китай",
+      "display": {
+        "diagonal": "14''",
+        "resolution": "1920x1080 Full HD",
+        "matrix": "IPS (Retina)",
+        "coverage": "Антиблікове"
+      },
+      "cpu": {
+        "type": "Intel",
+        "model": "Core i7-1165G7",
+        "cores": "4 ядра",
+        "frequency": "2,8 (4,7) ГГц"
+      },
+      "ram": {
+        "volume": "16 ГБ",
+        "type": "LPDDR4X",
+        "frequency": "2933 МГц"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "512 GB"
+      },
+      "specifics": "Bluetooth, Підсвічування клавіатури, HDMI",
+      "size": {
+        "thickness": "16,9 мм",
+        "width": "319 мм",
+        "depth": "199 мм",
+        "weight": "1,19 кг"
+      },
+      "direction":"мобільний, автономний",
+      "os": "Windows 10 Home",
+      "videoCard": {
+        "brand": "Nvidia",
+        "model": "GeForce MX330",
+        "volume": "2 GB",
+        "type": "дискретна"
+      },
+      "price": 42450
+    },
+    {
+      "title": "Ноутбук ігровий Asus",
+      "key": "X570UD-DM370",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/s/asus_x570ud-dm370_black_0.jpg",
+      "color": "чорний",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/s/asus_x570ud-dm370_black_1.jpg","https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/a/s/asus_x570ud-dm370_black_3.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Asus",
+      "country": "Китай",
+      "display": {
+        "diagonal": "15,6''",
+        "resolution": "1920x1080 Full HD",
+        "matrix": "IPS",
+        "coverage": "Матове"
+      },
+      "cpu": {
+        "type":"Intel",
+        "model": "Core i5-8250U",
+        "cores": "4 ядра",
+        "frequency": "1,6 (3,4) ГГц"
+      },
+      "ram": {
+        "volume": "6 ГБ",
+        "type": "DDR4",
+        "frequency": "3200 МГц"
+      },
+      "hardDrive": {
+        "type": "HDD",
+        "volume": "1 TB"
+      },
+      "specifics": "Bluetooth, HDMI, TPM модуль, Підсвічування клавіатури",
+      "size": {
+        "thickness": "19,9 мм",
+        "width": "356,67 мм",
+        "depth": "233,13 мм",
+        "weight": "1,7 кг"
+      },
+      "direction":"ігровий, робота з графікою",
+      "os": "Linux",
+      "videoCard": {
+        "brand": "Nvidia",
+        "model": "GeForce GTX 1050",
+        "volume": "4 GB",
+        "type": "дискретна"
+      },
+      "price": 22799
+    },
+
+    {
+      "title": "Ноутбук ігровий HP Omen 15-ek0044ur",
+      "key": "(2G4D1EA)",
+      "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/h/p/hp_omen_15-ek0044ur_2g4d1ea_2_.jpg",
+      "color": "чорний",
+      "gallery": ["https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/h/p/hp_omen_15-ek0044ur_2g4d1ea_4_.jpg","https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/h/p/hp_omen_15-ek0044ur_2g4d1ea_6_.jpg","https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/h/p/hp_omen_15-ek0044ur_2g4d1ea_1_.jpg"],
+      "category": "Ноутбуки",
+      "brand": "Asus",
+      "country": "Китай",
+      "display": {
+        "diagonal": "15,6''",
+        "resolution": "3840x2160 Ultra HD",
+        "matrix": "IPS",
+        "coverage": "Антиблікове"
+      },
+      "cpu": {
+        "type":"Intel",
+        "model": "Core i7-10750H",
+        "cores": "6 ядер",
+        "frequency": "2,6 (5,0) ГГц"
+      },
+      "ram": {
+        "volume": "32 ГБ",
+        "type": "DDR4",
+        "frequency": "2933 МГц"
+      },
+      "hardDrive": {
+        "type": "SSD",
+        "volume": "1 TB"
+      },
+      "specifics": "Bluetooth, HDMI, Підсвічування клавіатури",
+      "size": {
+        "thickness": "19,9 мм",
+        "width": "356,67 мм",
+        "depth": "233,13 мм",
+        "weight": "1,7 кг"
+      },
+      "direction":"ігровий, робота з графікою, програмування",
+      "os": "Free DOS",
+      "videoCard": {
+        "brand": "Nvidia",
+        "model": "GeForce RTX 2070 Max Q",
+        "volume": "8 GB",
+        "type": "гібридна"
+      },
+      "price": 77999
+    }
+  ]
+}
+
